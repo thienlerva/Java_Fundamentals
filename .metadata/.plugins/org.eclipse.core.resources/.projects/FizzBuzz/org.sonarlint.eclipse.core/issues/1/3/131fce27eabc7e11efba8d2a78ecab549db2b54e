@@ -1,0 +1,13 @@
+
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(†Ù®Ñ8ô×Æäê,H¬RMAJORZ
+CODE_SMELL
+_squid:S1148("#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8öø‹äê,H­RMINORZVULNERABILITY
+Psquid:S16437"Use a StringBuilder instead.(¹ò­¤8Ë¸äê,H®RMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(á‘¿ß8ô×Æäê,H¯RMAJORZ
+CODE_SMELL
+xsquid:S2147>"DCombine this catch with the one at line 58, which has the same body.(ï­£Ä8Ë¸äê,H°RMINORZ
+CODE_SMELL
+_squid:S1148<"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ë¸äê,H±RMINORZVULNERABILITY
+_squid:S1148@"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ë¸äê,H²RMINORZVULNERABILITY

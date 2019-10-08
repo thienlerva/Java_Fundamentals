@@ -1,0 +1,44 @@
+
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ï»Âÿúÿÿÿÿ8—ÌÃçê,H¹RMAJORZ
+CODE_SMELL
+_squid:S1148w"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8—ÌÃçê,HÀRMINORZVULNERABILITY
+l
+squid:S106N"9Replace this use of System.out or System.err by a logger.(‘´Àœ8ñýŒèê,HÉRMAJORZ
+CODE_SMELL
+q
+squid:S106S"9Replace this use of System.out or System.err by a logger.(÷öêõùÿÿÿÿ8ñýŒèê,HÊRMAJORZ
+CODE_SMELL
+q
+squid:S106>"9Replace this use of System.out or System.err by a logger.(ÜïƒÉøÿÿÿÿ8ñýŒèê,HÇRMAJORZ
+CODE_SMELL
+ysquid:S2147v"ECombine this catch with the one at line 116, which has the same body.(ï­£Ä8—ÌÃçê,H¾RMINORZ
+CODE_SMELL
+l
+squid:S106B"9Replace this use of System.out or System.err by a logger.(ËÅ 8ñýŒèê,HÈRMAJORZ
+CODE_SMELL
+ksquid:S12267">Introduce a new variable instead of reusing the parameter "c".(‹¬ÌŒ8—ÌÃçê,HºRMINORZBUG
+_squid:S1148u"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8—ÌÃçê,H¿RMINORZVULNERABILITY
+l
+squid:S106\"9Replace this use of System.out or System.err by a logger.(‚šü—8ñýŒèê,HËRMAJORZ
+CODE_SMELL
+q
+squid:S106a"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8ñýŒèê,HÍRMAJORZ
+CODE_SMELL
+Zsquid:S14816"&Remove this unused "c" local variable.(²Ï»§8—ÌÃçê,H»RMINORZ
+CODE_SMELL
+’squid:S2293g"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢¯‚Æÿÿÿÿÿ8—ÌÃçê,H·RMINORZ
+CODE_SMELL
+Psquid:S1643R"Use a StringBuilder instead.(—ºïä8ñýŒèê,HÆRMINORZ
+CODE_SMELL
+k
+squid:S106#"9Replace this use of System.out or System.err by a logger.(¨Òï8—ÌÃçê,H¸RMAJORZ
+CODE_SMELL
+q
+squid:S106_"9Replace this use of System.out or System.err by a logger.(ì§ôæýÿÿÿÿ8ñýŒèê,HÌRMAJORZ
+CODE_SMELL
+]squid:S2140p")Use "java.util.Random.nextInt()" instead.(Ì˜”Ø8—ÌÃçê,H¼RMINORZ
+CODE_SMELL
+wsquid:S2259""E"NullPointerException" will be thrown when invoking method "guess()".(ýÉÉÇøÿÿÿÿ8ñýŒèê,HÎRMAJORZBUG
+isquid:S18547"5Remove this useless assignment to local variable "c".(‹¬ÌŒ8—ÌÃçê,H½RMAJORZ
+CODE_SMELL

@@ -1,0 +1,28 @@
+
+j
+squid:S1066"9Replace this use of System.out or System.err by a logger.(ï˜³øÿÿÿÿH‹RMAJORZ
+CODE_SMELL
+j
+squid:S106V"9Replace this use of System.out or System.err by a logger.(¶Í±ÿÿÿÿÿHRMAJORZ
+CODE_SMELL
+±squid:S1186O"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“–ışH•RCRITICALZ
+CODE_SMELL
+gsquid:S1161O":Add the "@Override" annotation above this method signature(“–ışH–RMAJORZ
+CODE_SMELL
+[squid:S1481M")Remove this unused "anon" local variable.(› Ÿ¤úÿÿÿÿH—RMINORZ
+CODE_SMELL
+e
+squid:S106&"9Replace this use of System.out or System.err by a logger.(µ²ãéH˜RMAJORZ
+CODE_SMELL
+jsquid:S1854M"8Remove this useless assignment to local variable "anon".(› Ÿ¤úÿÿÿÿH™RMAJORZ
+CODE_SMELL
+dsquid:S1854""7Remove this useless assignment to local variable "et2".(±„ÿµHšRMAJORZ
+CODE_SMELL
+e
+squid:S1063"9Replace this use of System.out or System.err by a logger.(µ²ãéH›RMAJORZ
+CODE_SMELL
+j
+squid:S106B"9Replace this use of System.out or System.err by a logger.(çÒêüÿÿÿÿHœRMAJORZ
+CODE_SMELL
+Usquid:S1481""(Remove this unused "et2" local variable.(±„ÿµHRMINORZ
+CODE_SMELL

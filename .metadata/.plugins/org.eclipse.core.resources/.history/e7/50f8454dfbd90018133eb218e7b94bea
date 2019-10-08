@@ -1,0 +1,65 @@
+package com.revature.question8;
+
+import java.util.Scanner;
+import java.util.ArrayList;
+
+public class Question8 {
+	
+	public static void main(String[] args) {
+		
+		
+		String line = "“karan”, “madam”, ”tom”, “civic”, “radar”, “sexes”, “jimmy”, “kayak”, “john”, “refer”, “billy”, “did”";
+		
+		StringBuilder sb1 = new StringBuilder("Hello");
+		StringBuilder sb2 = new StringBuilder("Madam");
+		
+	
+		System.out.println(sb2.reverse());
+		
+	}
+	
+	
+	public static void storePalindrome(String str) {
+		
+		
+	}
+	
+	public static ArrayList<String> storeWord(String str) {
+		
+		Scanner scan = new Scanner(str);
+		
+		ArrayList<String> arr = new ArrayList<String>();
+		
+		String word = "";
+		
+		while(scan.hasNext()) {
+			
+			word = scan.next();
+			
+			if(word.endsWith(",")) {
+				word = word.substring(1, word.length()-2);
+			} else {
+				word = word.substring(1, word.length()-1);
+			}
+			
+			arr.add(word);
+			
+		}
+		
+		return arr;
+		
+	}
+	
+	public static boolean isPalindrome(String str) {
+		
+		StringBuilder sb1 = new StringBuilder(str);
+		StringBuilder sb2 = new StringBuilder(str);
+		System.out.println(str);
+	
+		
+		
+		
+		return (sb1.reverse()).equals(sb2);
+	}
+
+}

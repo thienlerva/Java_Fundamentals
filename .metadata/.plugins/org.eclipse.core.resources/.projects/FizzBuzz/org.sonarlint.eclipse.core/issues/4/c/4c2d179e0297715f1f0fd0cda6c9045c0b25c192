@@ -1,0 +1,22 @@
+
+}squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿHˆRMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(†€éˆH‰RMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(šñ®ãHŠRMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(éØ»ÚûÿÿÿÿH‹RMAJORZ
+CODE_SMELL
+^squid:S1135"2Complete the task associated to this TODO comment.(ÉÚõÎHŒRINFOZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿHRINFOZ
+CODE_SMELL
+Xsquid:S1481!"&Remove this unused "x" local variable.(×¥…ãýÿÿÿÿHŽRMINORZ
+CODE_SMELL
+\squid:S00108;")Either remove or fill this block of code.(§Œ˜ ÿÿÿÿÿHRMAJORZ
+CODE_SMELL
+gsquid:S1854!"5Remove this useless assignment to local variable "x".(×¥…ãýÿÿÿÿHRMAJORZ
+CODE_SMELL
+Xsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿH‘RMINORZVULNERABILITY
+Xsquid:S1148%"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿH’RMINORZVULNERABILITY
+Xsquid:S1148?"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿH“RMINORZVULNERABILITY

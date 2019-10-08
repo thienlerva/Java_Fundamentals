@@ -1,0 +1,5 @@
+
+Œsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ú²ãäþÿÿÿÿ8€ªëŽë,HâRMINORZ
+CODE_SMELL
+¸squid:S1186	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8€ªëŽë,HãRCRITICALZ
+CODE_SMELL
